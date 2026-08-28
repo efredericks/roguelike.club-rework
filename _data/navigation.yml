@@ -1,0 +1,121 @@
+- title: Intro
+  url: "/"
+  side: right
+
+- title: 2026
+  url: "/events/2026/"
+  side: right
+
+- title: "Previous Years"
+  url: "/events/"
+  side: right
+  dropdown:
+  - title: "2025"
+    url: "/events/2025/"
+  - title: "2024"
+    url: "/events/2024/"
+  - title: "2023"
+    url: "/events/2023/"
+  - title: "2022"
+    url: "/events/2022/"
+  - title: "2021"
+    url: "/events/2021/"
+  - title: "2020"
+    url: "/events/2020/"
+  - title: "2019"
+    url: "/events/2019/"
+  - title: "2018"
+    url: "/events/2018/"
+  - title: "2017"
+    url: "/events/2017/"
+  - title: "2016"
+    url: "/events/2016/"
+
+- title: "About Us"
+  url: "/about-us/"
+  side: right
+
+- title: "CoC"
+  url: "/code-of-conduct/"
+  side: right
+
+- title: "Sponsorship"
+  url: "/sponsorship/"
+  side: right
+
+- title: "Roguelikes?"
+  url: "/roguelikes/"
+  side: right
+
+
+# - title: Getting Started
+#   url: "/getting-started/"
+#   side: left
+
+# - title: "Templates"
+#   url: "/design/"
+#   side: left
+#   dropdown:
+#   - title: "Grid & Colors"
+#     url: "/design/grid/"
+#   - title: "Typography"
+#     url: "/design/typography/typography/"
+#   - title: "Page/Post"
+#     url: "/design/page/"
+#   - title: "Post-Left-Sidebar"
+#     url: "/design/post-left-sidebar/"
+#   - title: "Post-Right-Sidebar"
+#     url: "/design/post-right-sidebar/"
+#   - title: "Page Full-Width"
+#     url: "/design/page-fullwidth/"
+#   - title: "Blog-Page"
+#     url: "/blog/"
+#   - title: "Video"
+#     url: "/design/video/"
+#   - title: "Gallery"
+#     url: "/design/gallery/"
+#   - title: "Portfolio"
+#     url: "/design/portfolio/"
+
+- title: "Header Styles"
+  url: "/headers/"
+  side: left
+  dropdown:
+  - title: "Header with Full-Width-Image"
+    url: "/design/header-full-width-image/"
+  - title: "Header with Image and Pattern"
+    url: "/design/header-image-pattern/"
+  - title: "Header with image and color"
+    url: "/design/header-image-color/"
+  - title: "Header Only With Logo"
+    url: "/design/header-logo-only/"
+  - title: "Header With Text"
+    url: "/design/header-with-text/"
+  - title: "No Header"
+    url: "/design/no-header/"
+  - title: "No Header but Image"
+    url: "/design/no-header-but-image/"
+
+# - title: Documentation
+#   url: "/documentation/"
+#   side: left
+#   dropdown:
+#   - title: "Changelog"
+#     url: "/changelog/"
+#   - title: "Roadmap"
+#     url: "/roadmap/"
+
+# - title: Blog
+#   url: "/blog/"
+#   side: left
+#   dropdown:
+#   - title: "Blog Archive"
+#     url: "/blog/archive/"
+
+- title: "Search"
+  url: "/search/"
+  side: left
+
+- title: "Contact"
+  url: "/contact/"
+  side: left
