@@ -27,6 +27,7 @@ Check typography variables › _3_typography_settings.scss
 a,
 a:link {
     transition: all .4s;
+    color: $ci-4;
 }
 
 a:visited {
@@ -34,15 +35,15 @@ a:visited {
 }
 
 a:hover {
-    color: darken( $ci-1, 10% );
+    color: darken( $ci-4, 10% );
 }
 
 a:focus {
-    color: lighten( $ci-1, 20% );
+    color: lighten( $ci-4, 20% );
 }
 
 a:active {
-    color: darken( $ci-1, 20% );
+    color: darken( $ci-4, 20% );
 }
 
 
@@ -92,6 +93,7 @@ h1, h2, h3, h4, h5, h6 {
     font-family: $header-font-family;
     font-weight: normal;
     padding: 0;
+    color: #eee;
 }
 h1 {
     font-size: $font-size-h1;

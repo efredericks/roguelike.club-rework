@@ -31,7 +31,7 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
+	<meta name="description" content="| ! % . . @ . @ . . @ . . . @ @ . \ \ \ \ \ . |">
 	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
 	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
 	
@@ -42,7 +42,7 @@
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
-	<meta property="og:description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
+	<meta property="og:description" content="| ! % . . @ . @ . . @ . . . @ @ . \ \ \ \ \ . |">
 	<meta property="og:url" content="http://localhost:4000/assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
@@ -57,7 +57,7 @@
 	<meta name="twitter:site" content="phlow">
 	<meta name="twitter:creator" content="phlow">
 	<meta name="twitter:title" content="RSS Feed (Styled)">
-	<meta name="twitter:description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
+	<meta name="twitter:description" content="| ! % . . @ . @ . . @ . . . @ @ . \ \ \ \ \ . |">
 	
 	
 
@@ -211,36 +211,6 @@
 
               </li>
               <li class="divider"></li>
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a  href="http://localhost:4000/search/">Search</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a  href="http://localhost:4000/contact/">Contact</a></li>
-              <li class="divider"></li>
-
-            
             
           
         
@@ -427,22 +397,6 @@
           
           
         
-
-              
-
-
-
-          
-          
-        
-
-              
-
-
-
-          
-          
-        
         
       </ul>
      
@@ -533,8 +487,8 @@
             <h5 class="shadow-black">About This Site</h5>
 
             <p class="shadow-black">
-              »Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.
-              <a href="http://localhost:4000/info/">More ›</a>
+              | ! % . . @ . @ . . @ . . . @ @ . \ \ \ \ \ . |
+              <a href="http://localhost:4000/info/"><br />More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 

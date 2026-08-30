@@ -161,3 +161,21 @@ img.lazy {
   }
 }
 
+#special-box {
+  width: 90%;
+  background: #000;
+  box-shadow: 0 0 6px cyan;
+  text-align: center;
+  margin: 2rem auto;
+  padding: 1rem;
+}
+
+#special-box h2,
+#special-box .button {
+  margin-bottom: 2rem;
+}
+
+#special-box hr {
+  border-top: dashed 0.2rem;
+  color: #00ffff33;
+}
