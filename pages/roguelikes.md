@@ -6,7 +6,10 @@ meta_title          : "Overview of the roguelike genre"
 # teaser              : "Get in touch with me? Use the contact form."
 permalink           : "/roguelikes/"
 header:
-    image_fullwidth: "banners/16.jpg"
+    image_fullwidth:
+        - "banners/16.jpg"
+        - "banners/3.jpg"
+    # image_fullwidth: "banners/16.jpg"
     title: ""
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/

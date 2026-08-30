@@ -6,7 +6,10 @@
 #
 layout: frontpage
 header:
-    image_fullwidth: "banners/16.jpg"
+    image_fullwidth:
+        - "banners/16.jpg"
+        - "banners/3.jpg"
+    # image_fullwidth: "banners/16.jpg"
     title: ""
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
