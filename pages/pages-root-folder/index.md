@@ -79,7 +79,7 @@ homepage: true
 
 # Ticket information
 
-<div id="special-box">
+<div id="special-box" class="pulse">
   <h2>Preview Event September 13, 2026 2pm Pacific, Online</h2>
   <a class="button large radius alert" href="https://ti.to/roguelike-celebration/preview-event-2026" target="_blank">Get a free ticket!</a>
   <hr size="1" />

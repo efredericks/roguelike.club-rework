@@ -627,7 +627,7 @@
 
 <h1 id="ticket-information">Ticket information</h1>
 
-<div id="special-box">
+<div id="special-box" class="pulse">
   <h2>Preview Event September 13, 2026 2pm Pacific, Online</h2>
   <a class="button large radius alert" href="https://ti.to/roguelike-celebration/preview-event-2026" target="_blank">Get a free ticket!</a>
   <hr size="1" />
@@ -813,19 +813,14 @@
 <script>
     /*
     // tweak to randomize images
-    var headerImages = ["banners/16.jpg","banners/3.jpg"];
+    var headerImages = ["banners/1.jpg","banners/2.jpg","banners/3.jpg","banners/4.jpg","banners/5.jpg","banners/6.jpg","banners/7.jpg","banners/8.jpg","banners/9.jpg","banners/10.jpg","banners/11.jpg","banners/12.jpg","banners/13.jpg","banners/14.jpg","banners/15.jpg","banners/16.jpg","banners/17.jpg","banners/18.jpg","banners/19.jpg","banners/20.jpg","banners/21.jpg"];
     var randomImage = "/roguelike.club-rework/images/" + headerImages[Math.floor(Math.random() * headerImages.length)];
     $("#masthead").backstretch(randomImage, { fade: 700 });
     $("#masthead-with-text").backstretch(randomImage, { fade: 700 });
     */
 
-    console.log('jQuery loaded:', typeof $);
-    console.log('backstretch plugin available:', typeof $.fn.backstretch);
-    console.log('#masthead-with-text found:', $("#masthead-with-text").length);
-
-
-    // cycle through images
-    var headerImages = ["banners/16.jpg","banners/3.jpg"];
+    /* cycle through images */
+    var headerImages = ["banners/1.jpg","banners/2.jpg","banners/3.jpg","banners/4.jpg","banners/5.jpg","banners/6.jpg","banners/7.jpg","banners/8.jpg","banners/9.jpg","banners/10.jpg","banners/11.jpg","banners/12.jpg","banners/13.jpg","banners/14.jpg","banners/15.jpg","banners/16.jpg","banners/17.jpg","banners/18.jpg","banners/19.jpg","banners/20.jpg","banners/21.jpg"];
     var base = "/roguelike.club-rework/images/";
     var fullPaths = headerImages.map(function (img) { return base + img; });
 
@@ -833,8 +828,8 @@
     $("#masthead-with-text").backstretch(fullPaths, { fade: 700, duration: 4000 });
 
     /*
-    $("#masthead").backstretch("/roguelike.club-rework/images/banners/16.jpgbanners/3.jpg", {fade: 700});
-    $("#masthead-with-text").backstretch("/roguelike.club-rework/images/banners/16.jpgbanners/3.jpg", {fade: 700});
+    $("#masthead").backstretch("/roguelike.club-rework/images/banners/1.jpgbanners/2.jpgbanners/3.jpgbanners/4.jpgbanners/5.jpgbanners/6.jpgbanners/7.jpgbanners/8.jpgbanners/9.jpgbanners/10.jpgbanners/11.jpgbanners/12.jpgbanners/13.jpgbanners/14.jpgbanners/15.jpgbanners/16.jpgbanners/17.jpgbanners/18.jpgbanners/19.jpgbanners/20.jpgbanners/21.jpg", {fade: 700});
+    $("#masthead-with-text").backstretch("/roguelike.club-rework/images/banners/1.jpgbanners/2.jpgbanners/3.jpgbanners/4.jpgbanners/5.jpgbanners/6.jpgbanners/7.jpgbanners/8.jpgbanners/9.jpgbanners/10.jpgbanners/11.jpgbanners/12.jpgbanners/13.jpgbanners/14.jpgbanners/15.jpgbanners/16.jpgbanners/17.jpgbanners/18.jpgbanners/19.jpgbanners/20.jpgbanners/21.jpg", {fade: 700});
     */
 </script>
 
