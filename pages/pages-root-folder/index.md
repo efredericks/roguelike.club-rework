@@ -89,7 +89,7 @@ homepage: true
 
 # A celebration of roguelike games
 
-Roguelike Celebration 2026 will be held on Saturday and Sunday October 17 – October 18, 2026 as a virtual event in our custom-built multiplayer game/chat space. Talks will be streamed to Twitch and YouTube, and made available on YouTube shortly afterwards.
+Roguelike Celebration 2026 will be held on **Saturday and Sunday October 17 – October 18, 2026** as a virtual event in our custom-built multiplayer game/chat space. Talks will be streamed to Twitch and YouTube, and made available on YouTube shortly afterwards.
 
 The Roguelike Celebration is a yearly community-generated weekend of talks, games, and conversations about roguelikes and related topics, including procedural generation and game design. It's for fans, players, developers, scholars, and everyone else!
 
