@@ -620,15 +620,17 @@
 
 
 <script>
+    /*
     // tweak to randomize images
-    // var headerImages = "header-bus.jpg";
-    // var randomImage = "/roguelike.club-rework/images/" + headerImages[Math.floor(Math.random() * headerImages.length)];
-    // $("#masthead").backstretch(randomImage, { fade: 700 });
-    // $("#masthead-with-text").backstretch(randomImage, { fade: 700 });
+    var headerImages = "header-bus.jpg";
+    var randomImage = "/roguelike.club-rework/images/" + headerImages[Math.floor(Math.random() * headerImages.length)];
+    $("#masthead").backstretch(randomImage, { fade: 700 });
+    $("#masthead-with-text").backstretch(randomImage, { fade: 700 });
+    */
 
     console.log('jQuery loaded:', typeof $);
-console.log('backstretch plugin available:', typeof $.fn.backstretch);
-console.log('#masthead-with-text found:', $("#masthead-with-text").length);
+    console.log('backstretch plugin available:', typeof $.fn.backstretch);
+    console.log('#masthead-with-text found:', $("#masthead-with-text").length);
 
 
     // cycle through images
@@ -639,8 +641,10 @@ console.log('#masthead-with-text found:', $("#masthead-with-text").length);
     $("#masthead").backstretch(fullPaths, { fade: 700, duration: 4000 });
     $("#masthead-with-text").backstretch(fullPaths, { fade: 700, duration: 4000 });
 
-    // $("#masthead").backstretch("/roguelike.club-rework/images/header-bus.jpg", {fade: 700});
-    // $("#masthead-with-text").backstretch("/roguelike.club-rework/images/header-bus.jpg", {fade: 700});
+    /*
+    $("#masthead").backstretch("/roguelike.club-rework/images/header-bus.jpg", {fade: 700});
+    $("#masthead-with-text").backstretch("/roguelike.club-rework/images/header-bus.jpg", {fade: 700});
+    */
 </script>
 
 
