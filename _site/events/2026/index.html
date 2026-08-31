@@ -757,6 +757,11 @@
     $("#masthead").backstretch(fullPaths, { fade: 700, duration: 4000 });
     $("#masthead-with-text").backstretch(fullPaths, { fade: 700, duration: 4000 });
 
+    // retrigger for mobile
+    setTimeout(function() {
+        $(window).trigger('resize');
+    }, 100);
+
     // $("#masthead").backstretch("/roguelike.club-rework/images/header_unsplash_8.jpg", {fade: 700});
     // $("#masthead-with-text").backstretch("/roguelike.club-rework/images/header_unsplash_8.jpg", {fade: 700});
 </script>
