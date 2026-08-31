@@ -23,7 +23,7 @@
     console.log('#masthead-with-text found:', $("#masthead-with-text").length);
 
 
-    // cycle through images
+    /* cycle through images */
     var headerImages = {{ page.header.image_fullwidth | jsonify }};
     var base = "{{ site.urlimg }}";
     var fullPaths = headerImages.map(function (img) { return base + img; });
