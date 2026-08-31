@@ -16,6 +16,11 @@
     // $("#masthead").backstretch(randomImage, { fade: 700 });
     // $("#masthead-with-text").backstretch(randomImage, { fade: 700 });
 
+    console.log('jQuery loaded:', typeof $);
+console.log('backstretch plugin available:', typeof $.fn.backstretch);
+console.log('#masthead-with-text found:', $("#masthead-with-text").length);
+
+
     // cycle through images
     var headerImages = {{ page.header.image_fullwidth | jsonify }};
     var base = "{{ site.urlimg }}";

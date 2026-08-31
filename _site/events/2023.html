@@ -1393,6 +1393,11 @@ reasons to engage with it.</p>
     // $("#masthead").backstretch(randomImage, { fade: 700 });
     // $("#masthead-with-text").backstretch(randomImage, { fade: 700 });
 
+    console.log('jQuery loaded:', typeof $);
+console.log('backstretch plugin available:', typeof $.fn.backstretch);
+console.log('#masthead-with-text found:', $("#masthead-with-text").length);
+
+
     // cycle through images
     var headerImages = "header_unsplash_8.jpg";
     var base = "/roguelike.club-rework/images/";
@@ -1400,11 +1405,6 @@ reasons to engage with it.</p>
 
     $("#masthead").backstretch(fullPaths, { fade: 700, duration: 4000 });
     $("#masthead-with-text").backstretch(fullPaths, { fade: 700, duration: 4000 });
-
-    // retrigger for mobile
-    setTimeout(function() {
-        $(window).trigger('resize');
-    }, 100);
 
     // $("#masthead").backstretch("/roguelike.club-rework/images/header_unsplash_8.jpg", {fade: 700});
     // $("#masthead-with-text").backstretch("/roguelike.club-rework/images/header_unsplash_8.jpg", {fade: 700});
