@@ -553,7 +553,7 @@
   <span class="nt">&lt;iframe</span> <span class="na">with</span> <span class="na">video</span> <span class="nt">/&gt;</span>
 <span class="nt">&lt;/div&gt;</span></code></pre></figure>
 
-    <p><img class="t60" src="/roguelike.club-rework/images/header_homepage_13.jpg" alt="" /></p>
+    <p><img class="t60" src="/images/header_homepage_13.jpg" alt="" /></p>
 
     <h2 id="images">Images: Title, Thumbnails, Homepage</h2>
 
@@ -813,22 +813,22 @@
     /*
     // tweak to randomize images
     var headerImages = "header_roadmap_2.jpg";
-    var randomImage = "/roguelike.club-rework/images/" + headerImages[Math.floor(Math.random() * headerImages.length)];
+    var randomImage = "/images/" + headerImages[Math.floor(Math.random() * headerImages.length)];
     $("#masthead").backstretch(randomImage, { fade: 700 });
     $("#masthead-with-text").backstretch(randomImage, { fade: 700 });
     */
 
     /* cycle through images */
     var headerImages = "header_roadmap_2.jpg";
-    var base = "/roguelike.club-rework/images/";
+    var base = "/roguelike.club-rework//images/";
     var fullPaths = headerImages.map(function (img) { return base + img; });
 
     $("#masthead").backstretch(fullPaths, { fade: 700, duration: 4000 });
     $("#masthead-with-text").backstretch(fullPaths, { fade: 700, duration: 4000 });
 
     /*
-    $("#masthead").backstretch("/roguelike.club-rework/images/header_roadmap_2.jpg", {fade: 700});
-    $("#masthead-with-text").backstretch("/roguelike.club-rework/images/header_roadmap_2.jpg", {fade: 700});
+    $("#masthead").backstretch("/images/header_roadmap_2.jpg", {fade: 700});
+    $("#masthead-with-text").backstretch("/images/header_roadmap_2.jpg", {fade: 700});
     */
 </script>
 

@@ -40,7 +40,7 @@ improve_content: https://github.com/roguelike.club/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: '/roguelike.club-rework/images/'
+urlimg: '/images/'
 #https://phlow.github.io/feeling-responsive/images/'
 
 
