@@ -1,5 +1,5 @@
 ---
-layout              : page
+layout              : page-fullwidth
 title               : "About us"
 meta_title          : "Description of the Roguelike Celebration"
 # subheadline         : "About us"

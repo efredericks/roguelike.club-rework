@@ -400,3 +400,12 @@ body {
   background-blend-mode: multiply, multiply;
   background-attachment: fixed;
 }
+
+/* menu entry dedicated to ticket */
+.free-ticket {
+  text-decoration: underline;
+  font-weight: bold !important;
+  // background: #ff00ff !important;
+  /* https://grabient.com/_gBggNWgK-f-cf9PgDsf4Uf2ef55f-Bf_agBD */
+  background: linear-gradient(90deg, #004f4f 0.000%, #00b561 100.000%)  !important;
+}

@@ -80,6 +80,7 @@
 - title: "Get a free ticket!"
   url: "https://ti.to/roguelike-celebration/preview-event-2026"
   side: right
+  class: "free-ticket"
 
 # - title: "Header Styles"
 #   url: "/headers/"

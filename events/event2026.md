@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 # title: "2026"
 teaser: "Roguelike Celebration 2026 Event Page"
 breadcrumb: true

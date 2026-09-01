@@ -5,24 +5,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/404.html</loc>
+	<loc>http://localhost:4000/404.html</loc>
 	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/about-us/</loc>
-	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -35,9 +20,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/blog/archive/</loc>
+	<loc>http://localhost:4000/about-us/</loc>
 	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -49,12 +34,10 @@
 	
 
 	
-
-	
 	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/atom.xml</loc>
+	<loc>http://localhost:4000/blog/archive/</loc>
 	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -69,9 +52,26 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/changelog/</loc>
+	<loc>http://localhost:4000/atom.xml</loc>
 	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/changelog/</loc>
+	
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -84,24 +84,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/code-of-conduct/</loc>
+	<loc>http://localhost:4000/code-of-conduct/</loc>
 	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/contact/</loc>
-	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -114,24 +99,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/design/</loc>
+	<loc>http://localhost:4000/contact/</loc>
 	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/documentation/</loc>
-	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -144,24 +114,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/events/2016</loc>
+	<loc>http://localhost:4000/design/</loc>
 	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/events/2017</loc>
-	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -174,24 +129,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/events/2018</loc>
+	<loc>http://localhost:4000/documentation/</loc>
 	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/events/2019</loc>
-	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -204,24 +144,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/events/2020</loc>
+	<loc>http://localhost:4000/events/2016</loc>
 	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/events/2021</loc>
-	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -234,24 +159,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/events/2022</loc>
+	<loc>http://localhost:4000/events/2017</loc>
 	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/events/2023</loc>
-	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -264,24 +174,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/events/2024</loc>
+	<loc>http://localhost:4000/events/2018</loc>
 	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/events/2025</loc>
-	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -294,24 +189,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/events/2026/</loc>
+	<loc>http://localhost:4000/events/2019</loc>
 	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/feed.xml</loc>
-	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -324,24 +204,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/getting-started/</loc>
+	<loc>http://localhost:4000/events/2020</loc>
 	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/headers/</loc>
-	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -354,24 +219,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/humans.txt</loc>
+	<loc>http://localhost:4000/events/2021</loc>
 	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/blog/</loc>
-	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -384,24 +234,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/</loc>
+	<loc>http://localhost:4000/events/2022</loc>
 	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/info/</loc>
-	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -414,24 +249,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/redirect-page/</loc>
+	<loc>http://localhost:4000/events/2023</loc>
 	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/roadmap/</loc>
-	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -444,43 +264,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/robots.txt</loc>
+	<loc>http://localhost:4000/events/2024</loc>
 	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/roguelikes/</loc>
-	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/search/</loc>
-	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -493,9 +279,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/sitemap.xml</loc>
+	<loc>http://localhost:4000/events/2025</loc>
 	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -508,9 +294,223 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/roguelike.club-rework/sponsorship/</loc>
+	<loc>http://localhost:4000/events/2026/</loc>
 	
-		<lastmod>2026-09-01T10:33:40+02:00</lastmod>
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/feed.xml</loc>
+	
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/getting-started/</loc>
+	
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/headers/</loc>
+	
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/humans.txt</loc>
+	
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/blog/</loc>
+	
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/</loc>
+	
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/info/</loc>
+	
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/redirect-page/</loc>
+	
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/roadmap/</loc>
+	
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/robots.txt</loc>
+	
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/roguelikes/</loc>
+	
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/search/</loc>
+	
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/sitemap.xml</loc>
+	
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/sponsorship/</loc>
+	
+		<lastmod>2026-09-01T11:11:21+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
