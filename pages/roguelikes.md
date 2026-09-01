@@ -1,5 +1,5 @@
 ---
-layout              : page
+layout              : page-fullwidth
 title               : null 
 meta_title          : "Overview of the roguelike genre"
 # subheadline         : "Roguelikes?"

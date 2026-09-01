@@ -1,5 +1,5 @@
 ---
-layout              : page
+layout              : page-fullwidth
 title               : "Sponsorship"
 meta_title          : "Conference sponsorship"
 # subheadline         : "Contact Form"
