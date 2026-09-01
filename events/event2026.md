@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 # title: "2026"
-teaser: "Roguelike Celebration 2026 Event Page"
+# teaser: "Roguelike Celebration 2026 Event Page"
 breadcrumb: true
 header: none
   #  image_fullwidth: header_unsplash_8.jpg
