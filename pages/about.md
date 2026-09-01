@@ -45,3 +45,89 @@ We're all volunteers, and you can join us to help organize next year's celebrati
 If you need to talk to a mod, either type /mod in the social space with your message, email us at contact@roguelike.club, or email one of our mods directly. See our Code of Conduct page for more details.
 
 If you have a report or concern related to an organizer, please contact a different organizer directly, such as by emailing rourkebywater@gmail.com or moytravis@gmail.com.
+
+## Current Organizers
+
+### [Alexei Pepers](https://twitter.com/ampepers) 
+
+![Alexei Pepers](/images/pfps/Alexei.jpg){: .bio-img }
+
+[(Druid/Ranger)](https://twitter.com/ampepers/status/1180536770183626752) My Mom got me hooked on Nethack as a child, and delving into the source code led me to speak at [Roguelike Celebration 2016](https://www.youtube.com/watch?v=Y_8sHtr62Bo) where I was welcomed into this strange and wonderful community. I journeyed down from the frozen wastes of Canada again in [2018](https://www.youtube.com/watch?v=5y_IAdOwaYs) and [2019](https://www.youtube.com/watch?v=mYMdMAvTHpo), and I make games for a living but my most notable contributions to roguelikes so far are the [proc gen practitioner spellcasting classes](https://twitter.com/ampepers/status/1180595090374512640). 
+
+{: .clear }
+
+---
+
+### [Emilia Lazer-Walker](https://bsky.app/profile/lazerwalker.com)
+
+![Emilia Lazer-Walker](/images/pfps/Em.jpg){: .bio-img }
+
+[(Bard Artificer)](https://twitter.com/ampepers/status/1180536770183626752) I've also been playing Nethack since I was a kid! I make experimental videogames and weird art installations. I've never made a roguelike, although I do a lot of work with procedural generation! If you'd like, you can check out my [portfolio](http://lazerwalker.com/).
+
+{: .clear }
+
+---
+
+### [Kawa](https://kawa.games/)
+
+![Kawa](/images/pfps/Kawa.jpg){: .bio-img }
+
+[(Ranger)](https://twitter.com/ampepers/status/1180536770183626752) I've been playing roguelikes since the early 2000s, on a search for free/open source games that would challenge me! I've been on the team for [Roguelike Radio](http://www.roguelikeradio.com/) on and off since 2012, ran [IRDC 2016](http://www.roguebasin.com/index.php?title=IRDC_2016-usa  ) in my hometown of New York City, and have spoken at Roguelike Celebration in the past on player culture and history. I'm also the maker of Bot Finds Kitten, a [Twitter](https://twitter.com/botfinds)/[Mastodon](https://botsin.space/@botfinds) bot inspired by Robot Finds Kitten!
+
+---
+
+### [Travis Moy](https://twitter.com/muffituffi)
+
+![Travis Moy](/images/pfps/silhouette.png){: .bio-img }
+
+[(Priest)](https://twitter.com/ampepers/status/1180536770183626752) My gateway to roguelikes was Dwarf Fortress, and that lead to somebody suggesting DCSS, at which I've died a lot and never ascended. I've made a few 7DRL games, [one of which](https://www.reddit.com/r/roguelikes/comments/4sy32z/roguelike_of_the_week_15th_july_a_roguelike_where/) ended up pretty good (though, a warning - it runs badly and may crash).
+
+---
+
+### [Nathan Savant](https://bsky.app/profile/baldsavant.bsky.social)
+
+![Nathan Savant](/images/pfps/Nathan.jpg){: .bio-img }
+
+[(Sorcerer/Bard)](https://twitter.com/ampepers/status/1180536770183626752) I got into roguelikes sideways by playing Nox as a kid and realizing a decade later that it was a roguelike. At that point I dived into the deep end of the roguelike pool and never looked back. Now I find myself burdened with knowledge about procedurally generated characters and story, and end up sharing that curse by [giving talks](https://www.youtube.com/watch?v=WTLPXhLjwLU) or writing [blog posts](https://www.nathansavant.com/blog).
+
+---
+
+### Sam Marcus
+
+![Sam Marcus](/images/pfps/Sam.png){: .bio-img }
+
+[(second rate hedge wizard)](https://twitter.com/ampepers/status/1180536770183626752) While Dungeon of Doom and Scarab of Ra were two of the earliest videogames I ever played, I still don't know what a Roguelike is with enough certainty to draw a clear line around the genre. I play (and generally lose) a lot of Roguelikes and someday my own Roguelike project will get past the unnecessary-wheel-reinvention stage and into reality. Sometimes I make things at [www.whiletruefork.com](https://www.whiletruefork.com/).
+
+---
+
+### [Rourke](https://x.com/RourkeBywater)
+
+![Rourke](/images/pfps/Rourke.jpg){: .bio-img }
+
+[(Bard/Druid)](https://twitter.com/ampepers/status/1180536770183626752) Since I was young I've been fascinated by games with a lot of interlocking systems such as 4X games and trading card games. Then, while in grad school I fell in love with procedural generation, especially simulated histories or social dymanics such as those in Dwarf Fortress, Caves of Qud, or Bad News. Now I get to deal with pcg all the time making games professionally! 
+
+---
+
+### [Haylee Mills](https://bsky.app/profile/7thdrxn.bsky.social)
+
+![Haylee Mills](/images/pfps/haylee-ness-self-transparent.png){: .bio-img }
+
+[(Rogue/Monk)](https://twitter.com/ampepers/status/1180536770183626752) - Nuclear Throne changed my life as it introduced me to the difficulty and fun that I loved from mastering and beating Contra as a kid. Used to work as an animator, now work in (and [mentor folks](https://7thdrxn.com/)) in cybersecurity, [work](https://cactuscon.com/) various [conferences](https://defcon.org/), and [help local artists throw shows for free](https://tempeartsandmusic.org/).
+
+---
+
+### [Andrew Janke](https://apjanke.net/)
+
+![Andrew Janke](/images/pfps/andrew-janke.jpg){: .bio-img }
+
+[(Wizard)](https://twitter.com/ampepers/status/1180536770183626752) - I got introduced to roguelikes by playing [Larn](https://larn.org/) in 1988, before I even really understood what a video game was. I do numeric programming and sysadmin stuff by day. I was delighted to find there were other folks in to this weird little space enough to throw a conference about it, and in 2025 I joined the party.
+
+---
+
+### Past Organizers
+
+Noah Swartz (founder), Allison Hughes, Asheesh Laroia, Philip James, Danny Hua, Britta Gustafson, Qristy Overton
+
+### Special Thanks
+
+Thanks to the many friends who have helped us make this happen, in big and small ways, including Amanda Glosson, Colin Liotta, Danielle Baskin, Douglas William Thrift, Hillary Benzell, Jay Freeman, Lee Reilly, Andrea Roberts, and many others.
