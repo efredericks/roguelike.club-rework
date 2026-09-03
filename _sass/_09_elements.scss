@@ -131,9 +131,9 @@ button.grey:focus,
 /* Side-Nav
 ------------------------------------------------------------------- */
 
-.side-nav li.title {
-  text-transform: uppercase;
-}
+// .side-nav li.title {
+  // text-transform: uppercase;
+// }
 
 .side-nav li {
   border-top: 1px solid $grey-3;
@@ -226,13 +226,14 @@ img.lazy {
 #special-box {
   width: 95%;
   background: #000;
-  box-shadow: 0 0 6px cyan;
+  box-shadow: 0 0 1rem cyan;
   text-align: center;
   margin: 2rem auto;
   padding: 1rem;
+  border-radius: 0.45rem;
 
-  box-shadow: 0 0 0 0 cyan;
-  animation: pulse 3s ease-in-out infinite
+  // box-shadow: 0 0 0 0 cyan;
+  // animation: pulse 3s ease-in-out infinite
 }
 
 #special-box h2,

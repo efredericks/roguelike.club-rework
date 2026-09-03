@@ -18,7 +18,9 @@ layout: compress
 	{% endunless %}
 
 	{% include _masthead.html %}
+	<div id="top-of-content" tabindex="-1">
 	{{ content }}
+	</div>
 
 	{% unless page.skip_boilerplate %}
 	{% include _footer.html %}

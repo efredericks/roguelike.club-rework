@@ -87,6 +87,8 @@ homepage: true
   <a class="button large radius alert" href="https://buttondown.email/RoguelikeCelebration" target="_blank">Join the mailing list!</a>
 </div>
 
+---
+
 # A celebration of roguelike games
 
 Roguelike Celebration 2026 will be held on **Saturday and Sunday October 17 – October 18, 2026** as a virtual event in our custom-built multiplayer game/chat space. Talks will be streamed to Twitch and YouTube, and made available on YouTube shortly afterwards.

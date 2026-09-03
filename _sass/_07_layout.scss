@@ -46,12 +46,18 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 #navigation {
-    -webkit-box-shadow: 0 2px 2px 0 rgba(0,0,0,.2);
-    box-shadow: 0 2px 3px 0 rgba(0,0,0,.2);
+    -webkit-box-shadow: 0 2px 5px rgba(0,0,0,.5);
+    box-shadow: 0 2px 5px rgba(0,0,0,.5);
+    margin-bottom: 2rem;
 
     [class^='icon-']:before, [class*=' icon-']:before {
         margin-right: rem-calc(8);
     }
+}
+
+/* make top bar bold */
+.top-bar ul li a {
+    font-weight: bold !important;
 }
 
 
@@ -79,7 +85,7 @@ body.video cite { color: #fff; }
     font-size: rem-calc(54);
     font-family: $header-font-family;
     color: #fff;
-    text-transform: uppercase;
+    // text-transform: uppercase;
     text-shadow: 0 2px 3px rgba(0,0,0,.4);
 }
 #masthead-no-image-header {
@@ -286,7 +292,7 @@ body.video cite { color: #fff; }
     #footer h5 {
         letter-spacing: 1px;
         color: #fff;
-        text-transform: uppercase;
+        // text-transform: uppercase;
     }
 
 
@@ -307,7 +313,7 @@ body.video cite { color: #fff; }
 .credits a {
     color: $subfooter-link-color;
     border: 0;
-    text-transform: uppercase;
+    // text-transform: uppercase;
     &:hover {
         color: #fff;
   }
@@ -362,3 +368,10 @@ body.video cite { color: #fff; }
 .pr5  { padding-right: 5px !important; }
 .pr10 { padding-right: 10px !important; }
 .pr20 { padding-right: 20px !important; }
+
+#skip-to-main {
+    margin-top: -2rem; /* put closer to sticky header without being a part of it */
+}
+#skip-to-main a {
+    font-size: 24px;
+}
